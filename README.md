@@ -175,7 +175,7 @@ This project is licensed under the MIT License – see the LICENSE file for deta
 
 For questions or collaboration inquiries, please contact:  
 booughattaskhawla@gmail.com
-GitHub: [[https://github.com/your-username](https://github.com/KhaoulaBoughattas)]
+GitHub: [(https://github.com/KhaoulaBoughattas)]
 
 
 
